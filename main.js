@@ -1,3 +1,4 @@
 function say (){
-    console.log('hello')
+    console.log('hello');
+    alert('nfoenf')
 }

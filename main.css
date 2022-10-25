@@ -4,3 +4,7 @@ h1{
     font-size: 30px;
     text-decoration: double;
 }
+div{
+    width: 50%;
+    height: 50%;
+}
